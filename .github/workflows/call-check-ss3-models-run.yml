@@ -12,4 +12,4 @@ on:
     branches: [main]
 jobs:
   call-workflow:
-    uses: nmfs-stock-synthesis/workflows/.github/workflows/check-ss3-models-run.yml@update_workflows
+    uses: nmfs-stock-synthesis/workflows/.github/workflows/check-ss3-models-run.yml@admb-13.1-test
